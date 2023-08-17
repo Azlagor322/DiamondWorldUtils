@@ -22,7 +22,7 @@ import java.util.TimerTask;
 
 public class DiscordWebSocketClient extends WebSocketClient {
     private boolean heartbeatIntervalStart = false;
-    public static String token = "MTA5MDY3MjE0MTcwMTIzMDgxNA.GFx6dj.u2pTHGgW5aGda6X1vHxxCvu1B6rMt-zW59A6nA";
+    public static String token = "BOT TOKEN";
     private int heartbeatInterval;
     private Timer heartbeatTimer;
 
